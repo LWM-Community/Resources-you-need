@@ -1,3 +1,6 @@
+# What is Open-Source?
+The Open Source Guidance playlist is here! https://youtu.be/msyGybzCKRs
+
 # Want to start your Open-Source Contribution journey? 
 There are 2 types of approaches: 
 
@@ -31,6 +34,9 @@ FOSSASIA GitHub: https://github.com/fossasia <br>
 
 # CNCF Programs links <br>
 Contribute to CNCF Projects: https://contribute.cncf.io/ <br>
-CNCF GitHub repo 1: https://github.com/cncf/mentoring <br>
+CNCF GitHub repo : https://github.com/cncf/mentoring <br>
+LFX Mentorship Repo:  https://github.com/cncf/mentoring <br>
+CNCF Sig mailing list : https://github.com/kubernetes/community/blob/master/sig-list.md <br>
+
 
 
