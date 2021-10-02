@@ -1,4 +1,4 @@
-# Step :<br>
+# Steps to follow :<br>
 1)Learn a language's(Java/C/Python) basics properties <br>
 2)STL : https://drive.google.com/file/d/1P2L-oZOPH4acthl4ByguEc4e1UorBkcB/view?usp=sharing <br>
 3)Discrete Mathematics : [Suggested :Discrete Mathematics and its applications by Rosen} Link: https://drive.google.com/file/d/1a1hd6Q7YoSNuf4DmGMHiWzOQTtDlSBfF/view <br>
@@ -29,3 +29,4 @@ Download this Drive : https://drive.google.com/drive/folders/1zzG-GqzDYt2CVI6jXV
 1)CSES : https://drive.google.com/file/d/1b5FoXXRhT3Q0N1uknVeMBhcBLNnE3_3T/view?usp=sharing <br>
 2)Competitive Programming 3 https://drive.google.com/file/d/1sz5NZ861dssFEfeCwZpXlYVk3UgAOsVR/view?usp=sharing <br>
 
+# Youtube to follow:
