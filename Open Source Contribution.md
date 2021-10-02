@@ -14,7 +14,7 @@ There are 2 types of approaches:
         1)    Have a basic knowledge on a topic . Example : Web dev, react js, ML ,AI etc <br>
         2)    Then apply in various programs or projects from GitHub and then contribute and learn what you need to know. It’s called “Learn on the Go” <br>
 
-
+**All the open source programs and time lines:** https://github.com/mitul3737/List-Of-Open-Source-Internships-Programs
 # Some Open-source Programs : <br>
 1)    Contribute to MDN: https://developer.mozilla.org/en-US/docs/MDN/Contribute <br>
 2)    Google Season of Docs: https://developers.google.com/season-of-docs/docs <br>
