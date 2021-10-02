@@ -8,4 +8,4 @@
 # Resources to Learn From:
 
 
-# Some outube Channels to Follow:
+# Some Youtube Channels to Follow:
