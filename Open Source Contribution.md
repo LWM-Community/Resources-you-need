@@ -28,3 +28,9 @@ The right mindset for GSoC: https://youtu.be/VhPqga44S5Y <br>
 Q & A with an Outreachy Intern - Tips for Future Applicants: https://www.youtube.com/watch?v=4c6hgg8XwQw <br>
 FOSSASIA Labs: Projects and Idea Page: https://fossasia.org/labs/ <br>
 FOSSASIA GitHub: https://github.com/fossasia <br>
+
+# CNCF Programs links <br>
+Contribute to CNCF Projects: https://contribute.cncf.io/ <br>
+CNCF GitHub repo 1: https://github.com/cncf/mentoring <br>
+
+
