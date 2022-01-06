@@ -7,15 +7,15 @@ So here you go! 🙂
 
 ##  How to Contribute?
 
-**The format you can follow while contributing is:**
+**The format you can follow while contributing to this repository is :**
 
-# Steps to follow: 
+# Add Steps to follow: 
 
-# Resources to Learn From:
+# Add Resources to Learn From:
 
-# Some Youtube Channels to Follow:
+# Add Some Youtube Channels to Follow:
 
-# Some projects to look into:
+# Add Some projects to look into:
 
 
 ### For a successful contribution you must have to follow these steps: 
