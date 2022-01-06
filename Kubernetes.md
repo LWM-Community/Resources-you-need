@@ -2,7 +2,7 @@
 
 
 # Resources to Learn From:
- yuva-lwm-
+
 - **Kubernetes Mastery**: Hands-On Lessons From A Docker Captain Course Slides to learn: https://slides.kubernetesmastery.com/
 
 - **Awesome Kubernetes** : A curated list for awesome kubernetes sources 🚢🎉 https://github.com/ramitsurana/awesome-kubernetes
