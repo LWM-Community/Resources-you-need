@@ -3,6 +3,9 @@
 
 # Resources to Learn From:
 Kubernetes Mastery: Hands-On Lessons From A Docker Captain Course Slides to learn: https://slides.kubernetesmastery.com/
+CNCF Free courses: https://training.linuxfoundation.org/resources/?_sft_content_type=free-course
+Beginner Resources: https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6
+Katacoda courses: https://www.katacoda.com/learn
 
 # Some Youtube Channels to Follow:
 Bret Fisher Docker and DevOps: https://www.youtube.com/c/BretFisherDockerandDevOps
