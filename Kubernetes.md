@@ -88,3 +88,7 @@
 
 # Sessions by Kubernetes
 **Session Links**: https://docs.google.com/document/d/1FsC-XyEoCzbqagvtrrG8EpNy-FbTKU6ZEnRogH7nHc0/edit#heading=h.lx727q60los2
+
+# Join 
+**Google Group:** https://groups.google.com/a/kubernetes.io/g/dev
+**Slack**: https://slack.k8s.io
