@@ -85,3 +85,6 @@
 # Some projects to look into:
 
 **Awesome-Kubernetes**: https://github.com/ramitsurana/awesome-kubernetes/blob/master/docs/projects/projects.md
+
+# Sessions by Kubernetes
+**Session Links**: https://docs.google.com/document/d/1FsC-XyEoCzbqagvtrrG8EpNy-FbTKU6ZEnRogH7nHc0/edit#heading=h.lx727q60los2
