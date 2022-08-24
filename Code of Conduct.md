@@ -36,7 +36,7 @@ This Code of Conduct applies to all community spaces and to anybody representing
 
 ## Enforcement
 
-Community leaders will ensure the security of the information provided by the students and students can report any incident to #ask-lwm channel . Also, they can mail to shahriyarmitul3737@gmail.com for any inconvenience.
+Community leaders will ensure the security of the information provided by the students and students can report any incident to #ask-lwm channel . Also, they can mail to learnwithmitul@gmail.com for any inconvenience.
 
 
 
