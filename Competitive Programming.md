@@ -17,6 +17,8 @@
 7)Hackerrank : https://www.hackerrank.com/interview/interview-preparation-kit <br>
 8)GeeksforGeeks: https://www.geeksforgeeks.org/fundamentals-of-algorithms/ <br>
 https://www.geeksforgeeks.org/data-structures/ <br>
+9)DSA Sources from LeetCode: https://leetcode.com/discuss/study-guide/1367727/Links-to-Some-Great-post-in-Study-Guide <br>
+10)Dynamic Programming Sources : https://leetcode.com/discuss/general-discussion/712010/The-ART-of-Dynamic-Programming-An-Intuitive-Approach%3A-from-Apprentice-to-Master <br>
 
 # Download the folder:<br> 
 Download this Drive : https://drive.google.com/drive/folders/1zzG-GqzDYt2CVI6jXVp1w2ySzulAd_42?usp=sharing <br>
